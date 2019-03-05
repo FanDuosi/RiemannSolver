@@ -6,3 +6,19 @@ List of useful textbooks, research paper and tutorials.
 2. 
 
 The high
+
+** Riemann Problem of Linear Hyperbolic System
+The Riemann Problem in linear hyperbolic systems says:
+
+P.D.E:
+         \mathbf{U}_t + \mathbf{AU}_x = \mathbf{0},  -\infty < x < \infty and t > 0
+I.C.:
+         \mathbf{U} = \mathbf{U}_L,      x<0
+         \mathbf{U} = \mathbf{U}_L,      x>0
+	 
+Solution Procedure:
+1. Solve eigenvalue problem of Jacobian Matrix A to obtain
+   - eigenvalue: \lambda_1 < \lambda_2 < \cdots < \lambda_3
+2. 
+
+*** Linearized Gas Dynamics Problem
