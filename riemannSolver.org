@@ -1,0 +1,6 @@
+* Introduction
+In compressible simulations, 
+
+List of useful textbooks, research paper and tutorials.
+1. Riemann Solvers and Numerical Methods for Fluid Dynamics
+2. 
